@@ -7,4 +7,4 @@
 broker pc는 server_socket.py를 실행시키면 된다.<br>
 이를 통해 내부망 pc와 turtlebot의 통신이 가능하다.
 
-++ 본 코드는 Multi-Threading으로 짜여져 있으며, 내부망 pc와 server pc와의 통신 thread, 그리고 turtlebot과 server pc와의 통신 thread로 총 2개의 thread
+++ 본 코드는 Multi-Threading으로 짜여져 있으며, 내부망 pc와 server pc와의 통신 thread, 그리고 turtlebot과 server pc와의 통신 thread로 총 2개의 thread로 구성되어 있다.
